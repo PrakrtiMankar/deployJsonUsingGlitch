@@ -47,5 +47,19 @@
       "text": "Awesome post!",
       "postId": "5"
     }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "name": "Fock deploywithglitch repo"
+    },
+    {
+      "id": 2,
+      "name": "clone the focked repo"
+    },
+    {
+      "id": 3,
+      "name": "npm i -> installs node module folders"
+    }
   ]
 }
